@@ -7,6 +7,7 @@
 **Goal :** To analyze product engagement, costumer behavior and find out if marketing spending money on the right sources.
 
 **Data :** 3 CSV files provided by the business.
+***
 
 **Findings and recommendations:**
 - Marketing expenses are higher then total revenues, hence Yandex.Afisha marketing needs investment returns to be positive.
